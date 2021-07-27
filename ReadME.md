@@ -19,4 +19,5 @@ Short description of the data the model was trained on
 
 Polyvore dataset from [polyvore.com](http://polyvore.com) which is now no longer active
 
-- a json file with a set of 17 000 outfits and the jpeg images of each item in each outfit
+- a json file with a set of 17 000 outfits
+- Jpeg images for each item in each outfit can be downloaded here: https://drive.google.com/file/d/0B4Eo9mft9jwoNm5WR3ltVkJWX0k/view?resourcekey=0-U-30d1POF7IlnAE5bzOzPA
