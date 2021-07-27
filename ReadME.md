@@ -1,5 +1,5 @@
 The model used was open sourced by Antonio Rubio: https://github.com/arubior/bilstm
-He has instructions on on this GIthub page on how to train the model. Most of what we've customized pertains to the preprocessing/post-processing of inputs to run inferences on this model to generate outfits
+He has instructions on on this GIthub page on how to train the model. Most of what we've customized pertains to the preprocessing/post-processing of inputs to run inferences on this model to generate outfits.
 
 
 ### What is the model?
